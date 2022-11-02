@@ -1,0 +1,30 @@
+body {
+  border-top: 5px;
+  border-left: 5px;
+  border-left: 5px;
+  border-right: 5px;
+  background-image: url("Audifono.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #080808;
+}
+h1 {
+  text-align: center;
+  letter-spacing: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-weight: bold;
+  background-color: rgb(11, 203, 236);
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
